@@ -1,0 +1,4 @@
+bs4>=0.0.1
+geojson>=2.5.0
+telebot>=0.0.5
+requests>=2.29.0
